@@ -2,10 +2,6 @@
 Monte Carlo Tic-Tac-Toe Player
 """
 
-import random
-import poc_ttt_gui
-import poc_ttt_provided as provided
-
 # Constants for Monte Carlo simulator
 # Change as desired
 NTRIALS = 10  # Number of trials to run
